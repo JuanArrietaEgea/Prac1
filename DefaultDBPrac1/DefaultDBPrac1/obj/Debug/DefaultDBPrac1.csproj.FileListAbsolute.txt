@@ -1,0 +1,7 @@
+C:\Users\juans\Desktop\DefaultDBPrac1\DefaultDBPrac1\bin\Debug\DefaultDBPrac1.exe.config
+C:\Users\juans\Desktop\DefaultDBPrac1\DefaultDBPrac1\bin\Debug\DefaultDBPrac1.exe
+C:\Users\juans\Desktop\DefaultDBPrac1\DefaultDBPrac1\bin\Debug\DefaultDBPrac1.pdb
+C:\Users\juans\Desktop\DefaultDBPrac1\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.csproj.AssemblyReference.cache
+C:\Users\juans\Desktop\DefaultDBPrac1\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.csproj.CoreCompileInputs.cache
+C:\Users\juans\Desktop\DefaultDBPrac1\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.exe
+C:\Users\juans\Desktop\DefaultDBPrac1\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.pdb
